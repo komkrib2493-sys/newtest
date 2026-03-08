@@ -69,7 +69,7 @@ My Data Dashboard
 
 <div class="card">
 <h3>Sensor 4</h3>
-<iframe src="http://YOUR-GRAFANA-IP:3000/d-solo/UID/dashboard?panelId=4"></iframe>
+<iframe src="[https://leerier-alivia-higher.ngrok-free.dev/public-dashboards/fc945f99a71d4e718d71bd475ffa3cdc]"></iframe>
 </div>
 
 </div>
